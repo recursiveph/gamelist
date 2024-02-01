@@ -642,8 +642,13 @@
 0.0.0.0 zynga.com
 0.0.0.0 www.krunkerio.io
 0.0.0.0 krunkerio.io
+0.0.0.0 gameforge.com
+0.0.0.0 www.gameforge.com
+0.0.0.0 crazygames.no
+0.0.0.0 www.crazygames.no
+0.0.0.0 stickman.pro
+0.0.0.0 www.stickman.pro
 
 
-#Edited by : Louie Pradez
-#Date : Jan. 9, 2023
-#updated
+#Edited by : EPB
+#Updated : Feb 1, 2024
