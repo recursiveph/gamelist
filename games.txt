@@ -648,7 +648,16 @@
 0.0.0.0 www.crazygames.no
 0.0.0.0 stickman.pro
 0.0.0.0 www.stickman.pro
-
+0.0.0.0 steamcommunity.com
+0.0.0.0 www.steamcommunity.com
+0.0.0.0 steamgames.com
+0.0.0.0 www.steamgames.com
+0.0.0.0 steamcontent.com
+0.0.0.0 www.steamcontent.com
+0.0.0.0 steamusercontent.com
+0.0.0.0 www.steamusercontent.com
+0.0.0.0 steamstatic.com
+0.0.0.0 www.steamstatic.com
 
 #Edited by : EPB
-#Updated : Feb 1, 2024
+#Updated : Feb 21, 2024
