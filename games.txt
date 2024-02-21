@@ -602,6 +602,8 @@
 0.0.0.0 msn.com
 0.0.0.0 www.now.gg
 0.0.0.0 now.gg
+0.0.0.0 start.gg
+0.0.0.0 www.start.gg
 0.0.0.0 www.pbskids.org
 0.0.0.0 pbskids.org
 0.0.0.0 www.play-games.com
@@ -628,8 +630,6 @@
 0.0.0.0 supermario-game.com
 0.0.0.0 www.tabletopia.com
 0.0.0.0 tabletopia.com
-0.0.0.0 www.unblocked-games.s3.amazonaws.com
-0.0.0.0 unblocked-games.s3.amazonaws.com
 0.0.0.0 www.wellgames.com
 0.0.0.0 wellgames.com
 0.0.0.0 www.y8.com
@@ -658,6 +658,6 @@
 0.0.0.0 www.steamusercontent.com
 0.0.0.0 steamstatic.com
 0.0.0.0 www.steamstatic.com
-
+#
 #Edited by : EPB
 #Updated : Feb 21, 2024
