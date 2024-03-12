@@ -660,9 +660,6 @@
 0.0.0.0 www.steamstatic.com
 0.0.0.0 psiphon.ca
 0.0.0.0 www.psiphon.ca
-0.0.0.0 198.100.155.211
-0.0.0.0 167.99.70.250
-0.0.0.0 152.89.211.215
 #
 #Edited by : EPB
 #Updated : Mar 3, 2024
