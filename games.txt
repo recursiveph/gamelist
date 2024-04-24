@@ -660,6 +660,16 @@
 0.0.0.0 www.steamstatic.com
 0.0.0.0 psiphon.ca
 0.0.0.0 www.psiphon.ca
+0.0.0.0 eaglecraft.com
+0.0.0.0 www.eaglecraft.com
+0.0.0.0 dota2.com
+0.0.0.0 www.dota2.com
+0.0.0.0 gartic.io
+0.0.0.0 www.gartic.io
+0.0.0.0 cf.gameclub.ph
+0.0.0.0 www.cf.gameclub.ph
+0.0.0.0 playvalorant.com
+0.0.0.0 www.playvalorant.com
 #
 #Edited by : EPB
-#Updated : Mar 3, 2024
+#Updated : April 24, 2024
