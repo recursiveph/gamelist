@@ -670,6 +670,18 @@
 0.0.0.0 www.cf.gameclub.ph
 0.0.0.0 playvalorant.com
 0.0.0.0 www.playvalorant.com
+0.0.0.0 eaglecraft.com
+0.0.0.0 www.eaglecraft.com
+0.0.0.0 dota2.com
+0.0.0.0 www.dota2.com
+0.0.0.0 gartic.io
+0.0.0.0 www.gartic.io
+0.0.0.0 cf.gameclub.ph
+0.0.0.0 www.cf.gameclub.ph
+0.0.0.0 playvalorant.com
+0.0.0.0 www.playvalorant.com
+0.0.0.0 crossfire.z8games.com
+0.0.0.0 www.crossfire.z8games.com
 #
 #Edited by : EPB
-#Updated : April 24, 2024
+#Updated : April 25, 2024
