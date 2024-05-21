@@ -488,8 +488,8 @@
 0.0.0.0 dontblockme.org
 0.0.0.0 www.sigmally.com
 0.0.0.0 sigmally.com
-0.0.0.0 www.tetris.com
-0.0.0.0 tetris.com
+0.0.0.0 www.tetr.io
+0.0.0.0 tetr.io
 0.0.0.0 www.brave.com
 0.0.0.0 brave.com
 0.0.0.0 www.crunchyroll.com
