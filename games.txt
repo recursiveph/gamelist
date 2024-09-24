@@ -682,6 +682,24 @@
 0.0.0.0 www.playvalorant.com
 0.0.0.0 crossfire.z8games.com
 0.0.0.0 www.crossfire.z8games.com
+0.0.0.0 femoi.dk
+0.0.0.0 www.femoi.dk
+0.0.0.0 crazygames.com
+0.0.0.0 www.crazygames.com
+0.0.0.0 playhop.com
+0.0.0.0 www.playhop.com
+0.0.0.0 cheebies.com
+0.0.0.0 www.cheebies.com
+0.0.0.0 pbs.kids.org
+0.0.0.0 www.pbs.kids.org
+0.0.0.0 aarp.org
+0.0.0.0 www.aarp.org
+0.0.0.0 kids.poki.com
+0.0.0.0 www.kids.poki.com
+0.0.0.0 boomerangtv.co.uk
+0.0.0.0 www.boomerangtv.co.uk
+0.0.0.0 klook.com
+0.0.0.0 www.klook.com
 #
 #Edited by : EPB
-#Updated : April 25, 2024
+#Updated : September 24, 2024
