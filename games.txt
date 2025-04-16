@@ -704,6 +704,8 @@
 0.0.0.0 blood-strike.com
 0.0.0.0 www.kour.io
 0.0.0.0 kour.io
+0.0.0.0 www.mobile-legends.net
+0.0.0.0 mobile-legends.net
 #
 #Edited by : EPB
 #Updated : April 16, 2025
