@@ -700,6 +700,10 @@
 0.0.0.0 www.boomerangtv.co.uk
 0.0.0.0 klook.com
 0.0.0.0 www.klook.com
+0.0.0.0 www.blood-strike.com
+0.0.0.0 blood-strike.com
+0.0.0.0 www.kour.io
+0.0.0.0 kour.io
 #
 #Edited by : EPB
-#Updated : September 24, 2024
+#Updated : April 16, 2025
